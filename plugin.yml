@@ -1,0 +1,11 @@
+name: ShopGui
+main: ItzFabb\Shop\Main
+api: 3.22.2
+version: 1
+author: ItzFabb (edited by Momin)
+depend: ["EconomyAPI", "InvCrashFix"]
+
+commands:
+    buy:
+     description: "buy items here!"
+     permission: "use.shop.menu"
