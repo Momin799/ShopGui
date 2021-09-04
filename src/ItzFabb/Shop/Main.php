@@ -25,8 +25,8 @@ use pocketmine\utils\TextFormat as TF;
 use pocketmine\network\mcpe\protocol\LevelSoundEventPacket;
 use pocketmine\network\mcpe\protocol\LevelEventPacket;
 
-use libs\muqsit\invmenu\InvMenu;
-use libs\muqsit\invmenu\InvMenuHandler;
+use muqsit\invmenu\InvMenu;
+use muqsit\invmenu\InvMenuHandler;
 
 use onebone\economyapi\EconomyAPI;
 
